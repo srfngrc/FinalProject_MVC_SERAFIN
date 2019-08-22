@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace FinalProject_MVCapp_SERAFIN.Controllers
 {
-
     public class HomeController : Controller
     {
         public ActionResult Index()
