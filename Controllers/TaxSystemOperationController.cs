@@ -196,13 +196,6 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         // GET: TaxSystemOperation/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
-        }
-
-        // POST: TaxSystemOperation/Delete/5
-        [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
-        {
             SqlConnection connDELETEPostOp = new SqlConnection();
             connDELETEPostOp.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
 
@@ -223,5 +216,12 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
 
             return RedirectToAction("Manage");
         }
+
+        // POST: TaxSystemOperation/Delete/5
+        //[HttpPost]
+        //public ActionResult Delete(int id, FormCollection collection)
+        //{
+            
+        //}
     }
 }
