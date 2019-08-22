@@ -1,0 +1,152 @@
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\FinalProject_MVCapp_SERAFIN.dll.config
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\FinalProject_MVCapp_SERAFIN.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\FinalProject_MVCapp_SERAFIN.pdb
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\csc.exe
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\csc.exe.config
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\csc.rsp
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\csi.exe
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\csi.exe.config
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\csi.rsp
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.AppContext.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Collections.Immutable.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Console.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.IO.Compression.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.IO.FileSystem.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.IO.Pipes.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Reflection.Metadata.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.AccessControl.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.Claims.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Security.Principal.Windows.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.ValueTuple.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Xml.XPath.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\vbc.exe
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\vbc.exe.config
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\vbc.rsp
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\VBCSCompiler.exe
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\roslyn\VBCSCompiler.exe.config
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Antlr3.Runtime.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Microsoft.Web.Infrastructure.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Newtonsoft.Json.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Helpers.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Mvc.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Optimization.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Razor.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.WebPages.Deployment.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.WebPages.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.WebPages.Razor.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\WebGrease.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Helpers.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Mvc.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Optimization.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.Razor.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.WebPages.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.WebPages.Deployment.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\System.Web.WebPages.Razor.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Newtonsoft.Json.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Antlr3.Runtime.pdb
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\obj\Debug\FinalProject_MVCapp_SERAFIN.csprojAssemblyReference.cache
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\obj\Debug\FinalProject_MVCapp_SERAFIN.csproj.CoreCompileInputs.cache
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\obj\Debug\FinalProject_MVCapp_SERAFIN.csproj.CopyComplete
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\obj\Debug\FinalProject_MVCapp_SERAFIN.dll
+C:\VSRepositories\FinalProject_MVCapp_SERAFIN\obj\Debug\FinalProject_MVCapp_SERAFIN.pdb
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\FinalProject_MVCapp_SERAFIN.dll.config
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\FinalProject_MVCapp_SERAFIN.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\FinalProject_MVCapp_SERAFIN.pdb
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\csc.exe
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\csc.exe.config
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\csc.rsp
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\csi.exe
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\csi.exe.config
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\csi.rsp
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.AppContext.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Console.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.IO.Compression.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.IO.Pipes.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.Claims.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.ValueTuple.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\vbc.exe
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\vbc.exe.config
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\vbc.rsp
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Antlr3.Runtime.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Newtonsoft.Json.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Helpers.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Mvc.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Optimization.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Razor.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.WebPages.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.WebPages.Razor.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\WebGrease.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Helpers.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Mvc.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Optimization.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.Razor.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.WebPages.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\System.Web.WebPages.Razor.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Newtonsoft.Json.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Antlr3.Runtime.pdb
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\obj\Debug\FinalProject_MVCapp_SERAFIN.csprojAssemblyReference.cache
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\obj\Debug\FinalProject_MVCapp_SERAFIN.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\obj\Debug\FinalProject_MVCapp_SERAFIN.csproj.CopyComplete
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\obj\Debug\FinalProject_MVCapp_SERAFIN.dll
+C:\Users\S\Documents\proyecto final\FinalProject_MVCapp_SERAFIN-25361707becf4816650fedd4b04899f6e1460fcf\obj\Debug\FinalProject_MVCapp_SERAFIN.pdb

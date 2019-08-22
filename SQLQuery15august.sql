@@ -1,0 +1,1 @@
+﻿DELETE * FROM Nutella.logins WHERE loginId = 7;
