@@ -127,7 +127,7 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
             try
             {
                 connEditGetOp.Open();
-                string queryEDITgetOp = "SELECT * FROM Nutella.operations;"
+                string queryEDITgetOp = "SELECT * FROM Nutella.operations;";
                 SqlCommand commEditGetOperations = new SqlCommand(queryEDITgetOp, connEditGetOp);
                 SqlDataReader DReditGetOp = commEditGetOperations.ExecuteReader();
 
