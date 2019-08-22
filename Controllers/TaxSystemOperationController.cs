@@ -203,14 +203,25 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         [HttpPost]
         public ActionResult Delete(int id, FormCollection collection)
         {
+            SqlConnection connDELETEPostOp = new SqlConnection();
+            connDELETEPostOp.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
+
             try
             {
-                return RedirectToAction("Index");
+                connDELETEPostOp.Open();
+                SqlCommand commDELETEpostOp = new SqlCommand("DELETE FROM Nutella.operations WHERE operationId = " + id + ";", connDELETEPostOp);
+                commDELETEpostOp.ExecuteNonQuery();
             }
             catch
             {
-                return View();
+                return null;
             }
+            finally
+            {
+                connDELETEPostOp.Close();
+            }
+
+            return RedirectToAction("Manage");
         }
     }
 }

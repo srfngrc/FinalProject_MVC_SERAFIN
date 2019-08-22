@@ -16,9 +16,10 @@ namespace FinalProject_MVCapp_SERAFIN
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "TaxSystemUsers", action = "Manage", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
 }
-//defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+//defaults: new { controller = "TaxSystemUsers", action = "Manage", id = UrlParameter.Optional }
+//h
