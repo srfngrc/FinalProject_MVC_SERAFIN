@@ -108,7 +108,7 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
 
                 return RedirectToAction("Manage");
             }
-            catch
+            catch (Exception ex)
             {
                 return View();
             }
@@ -162,16 +162,27 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         public ActionResult Edit(int id, FormCollection collection)
         {
             SqlConnection connEditPostOp = new SqlConnection();
-            connEditPostOp.ConnectionString = ConfigurationManager.ConnectionStrings[""].ConnectionString;
+            connEditPostOp.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
             TaxSystemOperationMODEL OperationModified = new TaxSystemOperationMODEL();
 
             try
             {
                 connEditPostOp.Open();
 
-                return RedirectToAction("Manage");
+                OperationModified.isin = collection["isin"];
+                string queryEDITpostOp = "UPDATE Nutella.operations SET " +
+                "isin = '" + collection["isin"] + "', " +
+                "purchaseDate = '" + collection["purchaseDate"] + "', " +
+                "sellDate = '" + Convert.ToDateTime(collection["sellDate"]) + "', " +
+                "amount = '" + collection["amount"] + "', " +
+                "description = '" + collection["description"] + "' " +
+                "WHERE operationId = " + id + ";";
+
+                SqlCommand commandEDITpostOp = new SqlCommand(queryEDITpostOp, connEditPostOp);
+                commandEDITpostOp.ExecuteNonQuery();
+
             }
-            catch
+            catch (Exception ex)
             {
                 return null;
             }
@@ -179,6 +190,7 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
             {
                 connEditPostOp.Close();
             }
+            return RedirectToAction("Manage");
         }
 
         // GET: TaxSystemOperation/Delete/5
