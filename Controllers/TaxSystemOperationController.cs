@@ -121,11 +121,16 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         // GET: TaxSystemOperation/Edit/5
         public ActionResult Edit(int id)
         {
-            SqlConnection sql = new SqlConnection();
-            sql.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
+            SqlConnection connEditGetOp = new SqlConnection();
+            connEditGetOp.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
 
             try
             {
+                connEditGetOp.Open();
+                string queryEDITgetOp = "SELECT * FROM Nutella.operations;"
+                SqlCommand commEditGetOperations = new SqlCommand(queryEDITgetOp, connEditGetOp);
+                SqlDataReader DReditGetOp = commEditGetOperations.ExecuteReader();
+
             }
             catch { }
             finally { }
