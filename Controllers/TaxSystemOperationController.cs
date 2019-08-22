@@ -13,7 +13,7 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
     {
 
         //public TaxSystemOperationMODEL()
-        //{ return View(); }
+        //{ }
 
         // GET: TaxSystemOperation
         public ActionResult Manage()
@@ -123,31 +123,61 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         {
             SqlConnection connEditGetOp = new SqlConnection();
             connEditGetOp.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
+            TaxSystemOperationMODEL OperationToEdit = new TaxSystemOperationMODEL();
 
             try
             {
                 connEditGetOp.Open();
-                string queryEDITgetOp = "SELECT * FROM Nutella.operations;";
+                string queryEDITgetOp = "SELECT * FROM Nutella.operations WHERE operationId =" + id +";";
                 SqlCommand commEditGetOperations = new SqlCommand(queryEDITgetOp, connEditGetOp);
                 SqlDataReader DReditGetOp = commEditGetOperations.ExecuteReader();
 
+                while (DReditGetOp.Read())
+                {
+                    OperationToEdit.isin = DReditGetOp["isin"].ToString();
+                    OperationToEdit.purchaseDate = Convert.ToDateTime(DReditGetOp["purchaseDate"]);
+                    OperationToEdit.sellDate = Convert.ToDateTime(DReditGetOp["sellDate"]);
+                    OperationToEdit.amount = DReditGetOp["amount"].ToString();
+                    OperationToEdit.description = DReditGetOp["description"].ToString();
+                }
             }
-            catch { }
-            finally { }
-            return View();
+            catch
+            {
+                return null;
+            }
+            finally
+            {
+                connEditGetOp.Close();
+            }
+            return View(OperationToEdit);
         }
+
+        //private TaxSystemUsersController TaxSystemUsersController()
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         // POST: TaxSystemOperation/Edit/5
         [HttpPost]
         public ActionResult Edit(int id, FormCollection collection)
         {
+            SqlConnection connEditPostOp = new SqlConnection();
+            connEditPostOp.ConnectionString = ConfigurationManager.ConnectionStrings[""].ConnectionString;
+            TaxSystemOperationMODEL OperationModified = new TaxSystemOperationMODEL();
+
             try
             {
-                return RedirectToAction("Index");
+                connEditPostOp.Open();
+
+                return RedirectToAction("Manage");
             }
             catch
             {
-                return View();
+                return null;
+            }
+            finally
+            {
+                connEditPostOp.Close();
             }
         }
 

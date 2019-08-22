@@ -10,9 +10,10 @@
 
 <table class="table">
     <tr>
-        <th>
+        <th>operationId </th>
+        @*<th>
             @Html.DisplayNameFor(model => model.operationId)
-        </th>
+        </th>*@
         <th>
             @Html.DisplayNameFor(model => model.isin)
         </th>
@@ -31,30 +32,30 @@
         <th></th>
     </tr>
 
-    @foreach (var item in Model)
+    @foreach (var operationA in Model)
     {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.operationId)
+                @Html.DisplayFor(modelItem => operationA.operationId)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.isin)
+                @Html.DisplayFor(modelItem => operationA.isin)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.purchaseDate)
+                @Html.DisplayFor(modelItem => operationA.purchaseDate)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.sellDate)
+                @Html.DisplayFor(modelItem => operationA.sellDate)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.amount)
+                @Html.DisplayFor(modelItem => operationA.amount)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.description)
+                @Html.DisplayFor(modelItem => operationA.description)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.operationId }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.operationId })
+                @Html.ActionLink("Edit Op", "Edit", new { id = operationA.operationId }) |
+                @Html.ActionLink("Delete Op", "Delete", new { id = operationA.operationId })
             </td>
         </tr>
     }
