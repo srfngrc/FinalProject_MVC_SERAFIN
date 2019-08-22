@@ -11,6 +11,10 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
 {
     public class TaxSystemOperationController : Controller
     {
+
+        //public TaxSystemOperationMODEL()
+        //{ return View(); }
+
         // GET: TaxSystemOperation
         public ActionResult Manage()
         {
@@ -39,18 +43,9 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
                     newOperation.isin = myUsersResults["isin"].ToString();
 
                     newOperation.purchaseDate = (DateTime)myUsersResults["purchaseDate"];
-
-                    //DateTime aa = Convert.ToDateTime(myUsersResults["sellDate"]);
-                    //newOperation.sellDate = aa.ToString("yyyy-mm-dd");
                     newOperation.sellDate = Convert.ToDateTime(myUsersResults["sellDate"]);
 
-                    //el mas correcto: el de selldate pero con Tostring("YYYY-MM-dd") al final
-                    //newOperation.sellDate = Convert.ToDateTime(myUsersResults["sellDate"]).ToString("YYYY-MM-dd HH:mm:ss");
-
-                    //newOperation.purchaseDate = Convert.ToDateTime(myUsersResults["purchaseDate"]).ToString("dd/MM/yyyy");
-                    //newOperation.purchaseDate = DateTime.Parse(myUsersResults["purchaseDate"].ToString);
-                    //newOperation.purchaseDate = GetValue<DateTime>(myUsersResults["purchaseDate"]);
-
+                    //the most correct one: the selldate one BUT with Tostring("YYYY-MM-dd") at the end 
                     newOperation.amount = myUsersResults["amount"].ToString();
                     newOperation.description = myUsersResults["description"].ToString();
                     myOperations.Add(newOperation);
@@ -126,6 +121,14 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         // GET: TaxSystemOperation/Edit/5
         public ActionResult Edit(int id)
         {
+            SqlConnection sql = new SqlConnection();
+            sql.ConnectionString = ConfigurationManager.ConnectionStrings["SRFNconnection"].ConnectionString;
+
+            try
+            {
+            }
+            catch { }
+            finally { }
             return View();
         }
 
