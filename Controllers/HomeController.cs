@@ -25,8 +25,8 @@ namespace FinalProject_MVCapp_SERAFIN.Controllers
         [HttpPost]
         public ActionResult Index(FormCollection collection)
         {
-            //Session["userName"] = collection["userName"].ToString();
-            //Session["passWord"] = collection["passWord"].ToString();
+            Session["userName"] = collection["userName"].ToString();
+            Session["passWord"] = collection["passWord"].ToString();
             string userNameLOGIN = collection["userName"].ToString();
             string passWordLOGIN = collection["passWord"].ToString();
 

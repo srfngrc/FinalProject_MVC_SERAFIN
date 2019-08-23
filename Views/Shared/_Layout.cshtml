@@ -21,15 +21,16 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    
+
                     @if (Session["isLogged"] == "true")
                     {
-                    <li><a href="/TaxSystemUsers/Manage"> Users</a></li>
-                    <li><a href="/TaxSystemOperation/Manage"> Tax Operations</a></li>
+                        <li><a href="/TaxSystemUsers/Manage"> Users</a></li>
+                        <li><a href="/TaxSystemOperation/Manage"> Tax Operations</a></li>
                     }
-                    
+
                     <li>@Html.ActionLink("                     About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+
                 </ul>
             </div>
         </div>
@@ -38,7 +39,16 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <p>
+                &copy; @DateTime.Now.Year - My ASP.NET Application
+                <div style="margin-right: 0px; text-align: right">@DateTime.Now</div>
+                @if (Session["isLogged"] == "true")
+                {
+                    <div style="margin-right: 0px; text-align: right">Logged User: @Session["userName"]</div>
+                }
+
+                @*<div style="margin-right: 0px; text-align: right">@Session["passWord"]</div>*@
+            </p>
         </footer>
     </div>
 
